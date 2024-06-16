@@ -1,7 +1,9 @@
 nodered/node-red
+grafana/grafana-enterprise
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+tdengine/tdengine
+emqx/emqx
+nextcloud 
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
