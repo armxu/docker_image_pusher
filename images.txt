@@ -11,3 +11,4 @@ xhofe/alist:latest
 homeassistant/home-assistant
 traccar/traccar
 jeessy/ddns-go
+gdy666/lucky
