@@ -12,4 +12,4 @@ homeassistant/home-assistant
 traccar/traccar
 jeessy/ddns-go
 gdy666/lucky
-cloud9/ws
+cloud9/ws-docker
