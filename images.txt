@@ -14,3 +14,9 @@ jeessy/ddns-go
 gdy666/lucky
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/arm64 traccar/traccar
+--platform=linux/arm64 gdy666/lucky
+--platform=linux/arm64 nodered/node-red
+--platform=linux/arm64 mpherg/blynk-server
+--platform=linux/arm64 tdengine/tdengine
+--platform=linux/arm64 grafana/grafana-enterprise
+--platform=linux/arm64 emqx/emqx
