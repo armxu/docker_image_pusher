@@ -12,3 +12,5 @@ homeassistant/home-assistant
 traccar/traccar
 jeessy/ddns-go
 gdy666/lucky
+--platform=linux/arm64 jeessy/ddns-go
+--platform=linux/arm64 traccar/traccar
