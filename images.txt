@@ -13,7 +13,7 @@ traccar/traccar
 jeessy/ddns-go
 gdy666/lucky
 kartoza/geoserver
-bubble/bubble
+eip-io/bubble
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/armhf jeessy/ddns-go
 --platform=linux/arm64 traccar/traccar
