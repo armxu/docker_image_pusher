@@ -14,6 +14,7 @@ jeessy/ddns-go
 gdy666/lucky
 jlesage/firefox
 gotify/server
+penpotapp/penpot 
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/armhf jeessy/ddns-go
 --platform=linux/arm64 traccar/traccar
