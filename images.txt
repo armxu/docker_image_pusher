@@ -12,7 +12,6 @@ homeassistant/home-assistant
 traccar/traccar
 jeessy/ddns-go
 gdy666/lucky
-jlesage/firefox
 gotify/server
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/armhf jeessy/ddns-go
