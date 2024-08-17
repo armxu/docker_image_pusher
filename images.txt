@@ -14,7 +14,8 @@ jeessy/ddns-go
 gdy666/lucky
 gotify/server
 budibase/budibase
-thingsboard/tb-postgres  
+thingsboard/tb-postgres
+postgres
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/armhf jeessy/ddns-go
 --platform=linux/arm64 traccar/traccar
