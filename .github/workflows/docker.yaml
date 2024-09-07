@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
+  schedule:  
+    # 每天的 UTC 时间 00:00 执行  
+    - cron: '0 0 * * *'
 
 
 env:
