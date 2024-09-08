@@ -16,7 +16,7 @@ gotify/server
 budibase/budibase
 thingsboard/tb-postgres
 postgres
-danielgatis/rembg s
+poster-design
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/armhf jeessy/ddns-go
 --platform=linux/arm64 traccar/traccar
