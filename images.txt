@@ -16,7 +16,7 @@ gotify/server
 budibase/budibase
 thingsboard/tb-postgres
 postgres
-howard86/puppeteer_node
+danielgatis/rembg s
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/armhf jeessy/ddns-go
 --platform=linux/arm64 traccar/traccar
