@@ -4,6 +4,7 @@ mpherg/blynk-server
 nginx
 tdengine/tdengine
 emqx/emqx
+tomcat
 nextcloud 
 xhofe/alist:latest
 #支持指定架构
