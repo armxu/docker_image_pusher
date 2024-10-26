@@ -18,6 +18,7 @@ gotify/server
 budibase/budibase
 thingsboard/tb-postgres
 deluan/navidrome
+ampache/ampache
 postgres
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/armhf jeessy/ddns-go
