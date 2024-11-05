@@ -16,7 +16,7 @@ traccar/traccar
 jeessy/ddns-go
 gdy666/lucky
 gotify/server
-budibase/budibase
+#budibase/budibase
 thingsboard/tb-postgres
 deluan/navidrome
 ampache/ampache
