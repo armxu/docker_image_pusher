@@ -11,6 +11,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 homeassistant/home-assistant
+amtoaer/bili-sync-rs:latest
 traccar/traccar
 jeessy/ddns-go
 gdy666/lucky
