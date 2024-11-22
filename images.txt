@@ -21,6 +21,7 @@ thingsboard/tb-postgres
 deluan/navidrome
 ampache/ampache
 postgres
+owntracks/owntracks
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/armhf jeessy/ddns-go
 --platform=linux/arm64 traccar/traccar
