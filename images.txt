@@ -21,6 +21,7 @@ thingsboard/tb-postgres
 deluan/navidrome
 ampache/ampache
 postgres
+jojo141185/mopidy:release
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/armhf jeessy/ddns-go
 --platform=linux/arm64 traccar/traccar
