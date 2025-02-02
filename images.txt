@@ -9,7 +9,7 @@ imsyy/splayer
 nextcloud 
 xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 homeassistant/home-assistant
 amtoaer/bili-sync-rs:latest
 traccar/traccar
@@ -23,12 +23,12 @@ ampache/ampache
 postgres
 jojo141185/mopidy
 platform=linux/arm64 jeessy/ddns-go
---platform=linux/armhf jeessy/ddns-go
---platform=linux/arm64 traccar/traccar
+#--platform=linux/armhf jeessy/ddns-go
+#--platform=linux/arm64 traccar/traccar
 #--platform=linux/armhf traccar/traccar
 #--platform=linux/arm64 gdy666/lucky
 #--platform=linux/armhf gdy666/lucky
---platform=linux/arm64 nodered/node-red
+#--platform=linux/arm64 nodered/node-red
 #--platform=linux/armhf nodered/node-red
 #--platform=linux/arm64 mpherg/blynk-server
 #--platform=linux/arm64 tdengine/tdengine
