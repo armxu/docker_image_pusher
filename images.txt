@@ -20,3 +20,4 @@ thingsboard/tb-postgres
 deluan/navidrome
 ampache/ampache
 postgres
+sigoden/dufs
