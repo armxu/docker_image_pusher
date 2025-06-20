@@ -9,7 +9,6 @@ imsyy/splayer
 nextcloud 
 # 支持指定架构
 homeassistant/home-assistant
-amtoaer/bili-sync-rs
 traccar/traccar
 jeessy/ddns-go
 gdy666/lucky
