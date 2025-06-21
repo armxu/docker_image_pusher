@@ -20,3 +20,6 @@ postgres
 sigoden/dufs
 n8nio/n8n
 python
+wordpress
+tomcat
+pytorch/pytorch
