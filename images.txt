@@ -23,3 +23,4 @@ python
 wordpress
 tomcat
 pytorch/pytorch
+jvmilazz0/kavita
