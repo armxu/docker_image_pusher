@@ -27,4 +27,4 @@ jvmilazz0/kavita
 getmeili/meilisearch:v1.11.3
 flomp/wanderer-db
 flomp/wanderer-web
-jgraph/drawio:dev
+jgraph/drawio
