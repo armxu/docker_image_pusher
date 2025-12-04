@@ -30,3 +30,4 @@ flomp/wanderer-web
 jgraph/drawio
 containrrr/watchtower
 caddy
+n8nio/n8n
