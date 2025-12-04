@@ -19,6 +19,7 @@ ampache/ampache
 postgres
 sigoden/dufs
 n8nio/n8n
+redis
 python
 wordpress
 tomcat
@@ -30,4 +31,4 @@ flomp/wanderer-web
 jgraph/drawio
 containrrr/watchtower
 caddy
-n8nio/n8n
+
