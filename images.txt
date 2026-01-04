@@ -24,12 +24,9 @@ python
 wordpress
 tomcat
 pytorch/pytorch
-jvmilazz0/kavita
 getmeili/meilisearch:v1.11.3
 flomp/wanderer-db
 flomp/wanderer-web
 jgraph/drawio
-containrrr/watchtower
-caddy
 mysql
 
