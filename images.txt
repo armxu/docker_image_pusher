@@ -29,4 +29,3 @@ flomp/wanderer-db
 flomp/wanderer-web
 jgraph/drawio
 mysql
-
