@@ -35,3 +35,4 @@ mysql:8.0
 enwaiax/x-ui:alpha-zh
 gzxhwq/sing-box:dev
 metacubex/mihomo:Alpha
+--platform=linux/arm64 jeessy/ddns-go
