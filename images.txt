@@ -38,3 +38,4 @@ metacubex/mihomo:Alpha
 --platform=linux/arm64 jeessy/ddns-go
 --platform=linux/arm64 gdy666/lucky
 alnigg/appinventor
+cup319/appinventor
