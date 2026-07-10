@@ -30,7 +30,7 @@ getmeili/meilisearch:v1.11.3
 flomp/wanderer-db
 flomp/wanderer-web
 jgraph/drawio
-mysql:8.0
+mysql:9.7
 --platform=linux/arm64 mysql:8.0
 enwaiax/x-ui:alpha-zh
 gzxhwq/sing-box:dev
