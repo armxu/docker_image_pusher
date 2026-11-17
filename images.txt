@@ -1,4 +1,4 @@
--nodered/node-red
+nodered/node-red
 grafana/grafana-enterprise
 mpherg/blynk-server
 nginx
