@@ -1,4 +1,4 @@
-nodered/node-red
+-nodered/node-red
 grafana/grafana-enterprise
 mpherg/blynk-server
 nginx
@@ -7,10 +7,7 @@ emqx/emqx
 tomcat
 imsyy/splayer
 nextcloud 
-# 支持指定架构
 homeassistant/home-assistant
-#支持指定架构
---platform=linux/arm64 traccar/traccar 
 traccar/traccar
 bg6rsh/traccar-amap
 jeessy/ddns-go
@@ -32,7 +29,6 @@ flomp/wanderer-db
 flomp/wanderer-web
 jgraph/drawio
 mysql:9.7
---platform=linux/arm64 mysql:8.0
 enwaiax/x-ui:alpha-zh
 gzxhwq/sing-box:dev
 metacubex/mihomo:Alpha
